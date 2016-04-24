@@ -64,3 +64,8 @@ body {
   background-color: #111111;
   color: #FFF;
 }
+
+
+.list-group-item {
+  background-color: #111111;
+}
